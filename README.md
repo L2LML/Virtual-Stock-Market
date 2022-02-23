@@ -1,6 +1,8 @@
 # Virtual-Stock-Market
  Demo Market 25
+ 
 What was this project and what was the objective?
+
 This is Market 25 - our objective was to create a stock trading game that utilized real and current stock price information from an assortment of stocks that users could buy or sell within a custom date limited interval. We have data for 25 different stocks, hence the name.
 Who are the users?
 This is a simplified version of stock trading that can be played by anyone who has a casual understanding of how stocks are bought or sold, or someone who is learning about stock trading for the first time.
