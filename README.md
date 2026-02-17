@@ -1,4 +1,7 @@
 # Virtual-Stock-Market
+ Please see TECHNICAL_DOCUMENTATION.md
+ 
+ The version below is a narrative written by one of the team members
  Demo Market 25
  
 What was this project and what was the objective?
