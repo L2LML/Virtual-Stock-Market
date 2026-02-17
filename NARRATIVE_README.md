@@ -1,5 +1,5 @@
 # Virtual-Stock-Market
- Please see TECHNICAL_DOCUMENTATION.md
+ Please see newer README.md file
  
  The version below is a narrative written by one of the team members
  Demo Market 25
