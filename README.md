@@ -9,10 +9,10 @@ A real-time stock trading simulation game (Market 25) where users can buy and se
 
 **Team Capstone Project** | Tech Elevator Full-Stack Development Bootcamp
 
-> 📖 For user walkthrough and demo flow, see [README.md](./README.md)  
-> 🧪 For comprehensive testing documentation, see [TESTING.md](./TESTING.md)
+>  For user walkthrough and demo flow, see [README.md](./README.md)  
+>  For comprehensive testing documentation, see [TESTING.md](./TESTING.md)
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Technologies](#technologies)
 - [Architecture](#architecture)
@@ -23,7 +23,7 @@ A real-time stock trading simulation game (Market 25) where users can buy and se
 - [Team & Development Process](#team--development-process)
 - [Future Enhancements](#future-enhancements)
 
-## 🎯 Overview
+##  Overview
 
 Market 25 is a full-stack web application that simulates competitive stock trading using live market data from the Market Stack API. Users can create custom time-limited trading games, invite other players via email, and compete to achieve the highest portfolio value before the game ends.
 
@@ -38,7 +38,7 @@ Market 25 is a full-stack web application that simulates competitive stock tradi
 - **Real-Time Leaderboard**: Track your ranking against competitors
 - **Team Development**: Built using Agile/Scrum methodologies
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Backend
 - **Java 11** - Core application logic
@@ -65,7 +65,7 @@ Market 25 is a full-stack web application that simulates competitive stock tradi
 - **IntelliJ IDEA** - Java IDE
 - **VS Code** - Frontend development
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 virtual-stock-market/
@@ -111,7 +111,7 @@ virtual-stock-market/
     └── data.sql                         # Seed data
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Java JDK 11+
@@ -187,7 +187,7 @@ npm run serve
 
 Frontend runs on: `http://localhost:8081`
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Authentication
 ```http
@@ -281,7 +281,7 @@ GET  /api/transactions/portfolio/{id}/history # Get transaction history
 }
 ```
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Core Tables
 
@@ -363,15 +363,15 @@ last_updated TIMESTAMP
 - One portfolio has many transactions (buy/sell history)
 - One game can have many invitations
 
-## 🧪 Testing
+##  Testing
 
 Comprehensive testing documentation available in [TESTING.md](./TESTING.md)
 
 ### Test Coverage
-- ✅ Unit Tests: 80%+ coverage
-- ✅ Integration Tests: API endpoints
-- ✅ Manual Test Cases: User workflows
-- ✅ API Testing: Postman collection available
+-  Unit Tests: 80%+ coverage
+-  Integration Tests: API endpoints
+-  Manual Test Cases: User workflows
+-  API Testing: Postman collection available
 
 ### Run Tests
 ```bash
@@ -401,7 +401,7 @@ mvn verify -P integration-tests
 
 See [TESTING.md](./TESTING.md) for detailed test cases and QA procedures.
 
-## 👥 Team & Development Process
+##  Team & Development Process
 
 ### Agile/Scrum Methodology
 - **Sprint Length**: 2-week sprints
@@ -449,7 +449,7 @@ Acceptance Criteria:
 - User sees updated leaderboard after trades
 ```
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Historical stock price charts (Chart.js integration)
 - [ ] Advanced portfolio analytics and metrics
@@ -466,25 +466,25 @@ Acceptance Criteria:
 - [ ] Tournament mode with brackets
 - [ ] Stock watchlists and alerts
 
-## 📸 Screenshots
+##  Screenshots
 
 *Coming soon - screenshots of game creation, invitation system, leaderboard, and portfolio*
 
-## 👤 Author
+##  Author
 
 **Lisa Marie Lewandowski**
 - GitHub: [@L2LML](https://github.com/L2LML)
 - LinkedIn: [linkedin.com/in/lisamlewandowski](https://linkedin.com/in/lisamlewandowski)
-- Email: lewandowski.lisa@gmail.com
+- Email: lisaconfirmations@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Tech Elevator for project framework and mentorship
 - Market Stack for providing stock market API
 - Team members for collaboration and support
 - Stakeholders for requirements and feedback
 
-## 📝 License
+##  License
 
 This project was created as part of Tech Elevator's Full-Stack Development Bootcamp curriculum.
 
